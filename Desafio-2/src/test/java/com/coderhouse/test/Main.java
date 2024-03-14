@@ -10,6 +10,7 @@ import com.coderhouse.clases.Persona;
 public class Main {
 
 	public static void main(String[] args) {
+		
 		// Crear 5 objetos Persona
         Persona persona1 = new Persona("Juan", "Perez");
         Persona persona2 = new Persona("Pedro", "Fernandez");
